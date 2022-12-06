@@ -1,3 +1,5 @@
+![Demo](https://dogs-info-app-git-main-skodi001.vercel.app/dogs)
+
 ![Screenshot](/src/images/screenshot.png)
 
 ### The Dog App
