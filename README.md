@@ -1,4 +1,4 @@
-![Demo](https://dogs-info-app-git-main-skodi001.vercel.app/dogs)
+![Demo](https://dogs-info-app.vercel.app/)
 
 ![Screenshot](/src/images/screenshot.png)
 
